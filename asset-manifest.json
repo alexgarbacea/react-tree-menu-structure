@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tree-menu-structure/static/css/main.6258c91a.css",
+    "main.js": "/react-tree-menu-structure/static/js/main.da22f513.js",
+    "index.html": "/react-tree-menu-structure/index.html",
+    "main.6258c91a.css.map": "/react-tree-menu-structure/static/css/main.6258c91a.css.map",
+    "main.da22f513.js.map": "/react-tree-menu-structure/static/js/main.da22f513.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6258c91a.css",
+    "static/js/main.da22f513.js"
+  ]
+}
